@@ -1,0 +1,39 @@
+got that done.thank god
+
+connecting gitbash to github
+
+git config --global user.name "(username)"
+git config --global user.email "(email)"
+
+
+
+
+
+
+created a folder in c with name git
+in gitbash changed directory to C[ cd /c] and then to git folder
+
+in github.com created a repository-> and copied its url
+
+in gitbash-cloned the repository in git folder
+git clone (url), parenthesis not needed
+
+cd into the cloned repository and created this text file(not in gitbash, just right clicked and created text file)
+
+in gitbash- git add (filename with extension) 
+
+check status (shows recent updates in files)- git status
+
+commit and push to github.com
+
+git commit -m "(comment text goes here)" (filename.txt)
+
+git push -u origin master
+
+
+
+
+
+
+
+
